@@ -1,0 +1,14 @@
+{
+  "name": "outdoor",
+  "version": "1.0.0",
+  "description": "Landing page for Tour Webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass ./sass/main.scss ./css/style.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
